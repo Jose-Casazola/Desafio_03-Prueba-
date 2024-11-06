@@ -1,0 +1,14 @@
+.Agregar_Usuario{
+    font-size: 24px;
+    margin-bottom:24px;
+}
+
+.Nombre{
+    margin-right: 16px;
+    margin-bottom: 10px;
+}
+
+.Email{
+    margin-right: 32px;
+    margin-bottom: 10px;
+}

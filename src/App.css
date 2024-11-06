@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Titulo{
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+
+

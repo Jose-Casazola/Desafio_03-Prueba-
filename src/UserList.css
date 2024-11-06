@@ -1,0 +1,50 @@
+.Lista_de_Usuarios {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+  
+.user-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0;
+}
+
+.user-item {
+    display: flex;
+    justify-content: space-between; 
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 16px;
+}
+  
+
+.user-name {
+    color: #555;
+    font-weight: bold;
+}
+
+
+.user-email {
+    color: #555;
+}
+  
+  
+.delete-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+  
+.delete-button:hover {
+    background-color: #e60000;
+}
+  
